@@ -24,6 +24,7 @@ dependencies:
       - pystan
       - polyline
       - rpy2
+      - regionskate
   - contextily
   - pymc3
   - pysal
